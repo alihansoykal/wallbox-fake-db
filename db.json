@@ -1,12 +1,12 @@
 {
-  "properties":[
+  "properties": [
     {
       "car":"1",
      "amx":"15",
      "amp":"15",
      "err":"0",
      "frc":"0"
-    }
-  ]
+    },
+  ],
 }
 
